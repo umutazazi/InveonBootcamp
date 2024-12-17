@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Umut\\source\\repos\\Week2HW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1319F23-C5D3-424E-9D34-293791760A96}|Week2HW\\Week2HW.csproj|c:\\users\\umut\\source\\repos\\week2hw\\week2hw\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1319F23-C5D3-424E-9D34-293791760A96}|Week2HW\\Week2HW.csproj|solutionrelative:week2hw\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1319F23-C5D3-424E-9D34-293791760A96}|Week2HW\\Week2HW.csproj|c:\\users\\umut\\source\\repos\\week2hw\\week2hw\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1319F23-C5D3-424E-9D34-293791760A96}|Week2HW\\Week2HW.csproj|solutionrelative:week2hw\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Umut\\source\\repos\\Week2HW\\Week2HW\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Week2HW\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Umut\\source\\repos\\Week2HW\\Week2HW\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Week2HW\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T23:27:56.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Umut\\source\\repos\\Week2HW\\Week2HW\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Week2HW\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Umut\\source\\repos\\Week2HW\\Week2HW\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Week2HW\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T23:26:33.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
